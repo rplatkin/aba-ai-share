@@ -96,6 +96,16 @@
 
 **Not copied:** `McCarthy-v-DEA-3d-Cir.pdf` — duplicate of `3d-Cir.pdf` (already in share as `3dCir-First-Circuit-Competence-Violation-AI.pdf`)
 
+## Removed March 29, 2026
+
+| Filename | Reason |
+|---|---|
+| `RopesGray-AI-Court-Order-Tracker-427-Orders.pdf` | Removed from share |
+| `Platkin-ABA-Panel-Slides-Part1.pdf` | Removed from share |
+| `Panel-Working-Notes.pdf` | Removed from share |
+| `Verifiable-Assistance-Slide-Image.png` | Removed from share |
+| `Screenshot-NY-SB7263-UPL-AI-Chatbots.png` | Removed from share |
+
 ---
 
 **Files not renamed:**
