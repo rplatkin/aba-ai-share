@@ -108,6 +108,19 @@
 
 ---
 
+## Added April 2, 2026
+
+| Original Filename | New Filename |
+|---|---|
+| `AO 75 Artifical Intelligence.pdf` | `NY-Part161-AI-Rules-AO75-Jun2026.pdf` |
+| `Artificial_Intelligence_in_Federal_Courts_preprint.pdf` | `Sedona-Jaitley-AI-Federal-Courts-Survey-2026.pdf` |
+| `Generative AI and Legal Aid_ Results from a Field Study and 100 U.pdf` | `Chien-Kim-GenAI-Legal-Aid-Field-Study-LoyLR2025.pdf` |
+| `Minjie Zheng v. Internet Corp. for Assigned Names _ Numbers_2025 U.S. Dist. LEXIS 270990.pdf` | `Zheng-v-ICANN-CDCal-ProSe-Sanctions-Dec2025.pdf` |
+| `Monetary Sanctions May Be on the Rise as 'Frustrated' Courts Grapple With AI Hallucinations \| Law.co.pdf` | `LawCom-Monetary-Sanctions-Rising-Apr2026.pdf` |
+| `Montes-v-Suns.pdf` | Not renamed (already clean) |
+
+---
+
 **Files not renamed:**
 | Filename | Reason |
 |---|---|
