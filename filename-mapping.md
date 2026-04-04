@@ -121,6 +121,19 @@
 
 ---
 
+## Added April 4, 2026
+
+| Original Filename | New Filename |
+|---|---|
+| `Emotion concepts and their function in a large language model \ Anthropic.pdf` | `Anthropic-Emotion-Concepts-LLM-Apr2026.pdf` |
+| `Fletcher v. Experian Info. Sols._ Inc._2026 U.S. App. LEXIS 4834.Pdf` | `Fletcher-v-Experian-5thCir-AI-Brief-Feb2026.pdf` |
+| `New-6th-Cir.pdf` | `US-v-Farris-6thCir-AI-Fake-Cites-Apr2026.pdf` |
+| `Penalties stack up as AI spreads through the legal system : NPR.pdf` | `NPR-Penalties-AI-Legal-System-Apr2026.pdf` |
+| `Tax Court Navigates AI Misuse Rules for Self-Represented Filers.pdf` | `Bloomberg-Tax-Court-ProSe-AI-Rules-Mar2026.pdf` |
+| `Wash-Post-Judicial-Use` | `WashPost-Judges-Using-AI-Wu-Apr2026.pdf` |
+
+---
+
 **Files not renamed:**
 | Filename | Reason |
 |---|---|
