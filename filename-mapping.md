@@ -134,6 +134,15 @@
 
 ---
 
+## Added April 6, 2026
+
+| Original Filename | New Filename |
+|---|---|
+| `Lacey v. State Farm Gen. Ins. Co._2025 U.S. Dist. LEXIS 90370.pdf` | `Lacey-v-StateFarm-CDCal-Wilner-SpecialMaster-2025.pdf` |
+| `gov.uscourts.alsd.70919.353.0.pdf` | `Heimkes-v-Fairhope-SDAla-Eaton-Reprimand-Mar2026.pdf` |
+
+---
+
 **Files not renamed:**
 | Filename | Reason |
 |---|---|
