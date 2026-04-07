@@ -143,6 +143,15 @@
 
 ---
 
+## Added April 7, 2026
+
+| Original Filename | New Filename |
+|---|---|
+| `20221554-AIRecordingEthicsOpinion-1.pdf` | `NYCBar-FormalOp-2025-6-AI-Recording-Transcription.pdf` |
+| `The Hallucination Crisis- How AI-Generated Fake Citations Are Devastating Legal Careers Across Ameri.pdf` | `EthicsReporter-Hallucination-Crisis-Apr2026.pdf` |
+
+---
+
 **Files not renamed:**
 | Filename | Reason |
 |---|---|
