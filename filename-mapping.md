@@ -152,6 +152,17 @@
 
 ---
 
+## Added April 9, 2026
+
+| Original Filename | New Filename |
+|---|---|
+| `Morgan-v-V2X.pdf` | `Morgan-v-V2X-DColo-AI-Protective-Order-2026.pdf` |
+| `gov.uscourts.njd.554529.101.0.pdf` | `Gutierrez-v-Lorenzo-DNJ-Sanctions-Apr2026.pdf` |
+| `gov.uscourts.ord.158388.215.0.pdf` | `Couvrette-v-Wisnovsky-DOr-Sanctions-Dec2025.pdf` |
+| `gov.uscourts.ord.158388.225.0.pdf` | `Couvrette-v-Wisnovsky-DOr-FollowUp-Mar2026.pdf` |
+
+---
+
 **Files not renamed:**
 | Filename | Reason |
 |---|---|
