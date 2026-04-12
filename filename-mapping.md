@@ -168,6 +168,8 @@
 | Original Filename | New Filename |
 |---|---|
 | `gov.uscourts.caed.477534.47.0.pdf` | `Xiong-v-Wofford-EDCal-Repeat-Hallucinations-Apr2026.pdf` |
+| `N.Z. v. Fenix Int_l Ltd._2025 U.S. Dist. LEXIS 259988.pdf` | `NZ-v-Fenix-CDCal-AI-Sanctions-Dec2025.pdf` |
+| `The Highest Price Yet: How a San Diego Attorney's AI Fiasco Became the Costliest Hallucination Case .pdf` | `EthicsReporter-Costliest-Hallucination-Case-Apr2026.pdf` |
 | `ARTICLE_ AI_ UPL_ _ A2J   GENERATIVE AI_S DISRUPTIONS IN THE DELIVERY OF LEGAL SERVICES TO LOW-INCOM.pdf` | `Fines-AI-UPL-A2J-WashUJLP-2025.pdf` |
 | `Frankfort Digital Servs. v. Kistler _In re Reynoso__477 F.3d 1117.pdf` | `Frankfort-v-Kistler-9thCir-BankruptcyPetitionPreparer-2007.pdf` |
 | `Nippon_Life_Comlpaint.pdf` | `Nippon-Life-v-OpenAI-NDIll-Complaint-Mar2026.pdf` |
