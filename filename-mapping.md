@@ -176,6 +176,14 @@
 
 ---
 
+## Added April 13, 2026
+
+| Original Filename | New Filename |
+|---|---|
+| `protective-order.pdf` | `Jefferies-v-Harcros-Protective-Order-AI-Tools-DKan-Mar2026.pdf` |
+
+---
+
 **Files not renamed:**
 | Filename | Reason |
 |---|---|
