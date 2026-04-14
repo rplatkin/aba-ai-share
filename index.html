@@ -15,28 +15,183 @@
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
             line-height: 1.6;
             color: #1a1a1a;
-            background-color: #f9f9f9;
-            padding: 40px 20px;
+            background-color: #f5f5f5;
+            padding: 0;
         }
 
         .container {
-            max-width: 900px;
+            max-width: 960px;
             margin: 0 auto;
             background: white;
-            padding: 50px;
-            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
         }
+
+        /* ABA branded banner */
+        .aba-banner {
+            background: #000;
+            color: #fff;
+            padding: 18px 40px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .aba-banner .aba-mark {
+            font-size: 11px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+        .aba-banner .aba-mark span {
+            display: block;
+            font-size: 9px;
+            letter-spacing: 1.5px;
+            font-weight: 400;
+            color: #ccc;
+            margin-top: 3px;
+        }
+        .aba-banner .spring-mark {
+            font-size: 16px;
+            font-weight: 800;
+            letter-spacing: 1px;
+            background: linear-gradient(90deg, #00a9a5 0%, #f4b223 40%, #e6007e 70%, #7b3f99 100%);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        /* Hero */
+        .hero {
+            padding: 44px 50px 32px;
+            background: #fff;
+            border-bottom: 4px solid #7b2d8e;
+        }
+        .hero h1 {
+            font-size: 30px;
+            font-weight: 700;
+            color: #7b2d8e;
+            line-height: 1.15;
+            letter-spacing: -0.5px;
+            margin-bottom: 14px;
+        }
+        .hero .subtitle {
+            font-size: 15px;
+            color: #444;
+            font-weight: 500;
+            margin-bottom: 18px;
+        }
+        .hero .meta {
+            font-size: 13px;
+            color: #555;
+            line-height: 1.75;
+        }
+        .hero .meta strong { color: #222; }
+
+        /* Panel block */
+        .panel-block {
+            padding: 28px 50px;
+            background: #faf7fb;
+            border-bottom: 1px solid #ecdff0;
+        }
+        .panel-block h3 {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1.8px;
+            color: #7b2d8e;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+        .panel-list {
+            font-size: 13.5px;
+            color: #222;
+        }
+        .panel-list .row {
+            display: flex;
+            align-items: baseline;
+            gap: 14px;
+            padding: 6px 0;
+        }
+        .panel-list .person {
+            flex: 1;
+            min-width: 0;
+        }
+        .panel-list .name { font-weight: 700; color: #1a1a1a; }
+        .panel-list .affil { color: #555; font-weight: 400; }
+        .panel-list .role {
+            flex-shrink: 0;
+            order: -1;
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1.2px;
+            color: #7b2d8e;
+            font-weight: 700;
+            text-align: left;
+            width: 100px;
+        }
+
+        /* Deck / materials callout - muted */
+        .deck-callout {
+            padding: 28px 50px;
+            background: #f5eef7;
+            color: #3a1545;
+            border-top: 1px solid #e8dcec;
+            border-bottom: 1px solid #e8dcec;
+        }
+        .deck-callout .eyebrow {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #7b2d8e;
+            font-weight: 700;
+            margin-bottom: 6px;
+        }
+        .deck-callout h2 {
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 6px;
+            color: #5a1e6b;
+            border: none;
+            padding: 0;
+        }
+        .deck-callout p {
+            font-size: 13.5px;
+            color: #4a3050;
+            margin-bottom: 16px;
+            line-height: 1.6;
+        }
+        .deck-btn {
+            display: inline-block;
+            background: #7b2d8e;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 4px;
+            font-weight: 600;
+            font-size: 13px;
+            text-decoration: none;
+            letter-spacing: 0.3px;
+            margin-right: 10px;
+        }
+        .deck-btn.outline {
+            background: transparent;
+            color: #7b2d8e;
+            border: 1.5px solid #7b2d8e;
+        }
+        .deck-btn:hover { opacity: 0.88; }
+
+        .content-wrap { padding: 40px 50px 50px; }
 
         header {
             margin-bottom: 40px;
-            border-bottom: 2px solid #0066cc;
-            padding-bottom: 30px;
+            padding-bottom: 0;
+            border-bottom: none;
         }
 
         .title-block h1 {
             font-size: 28px;
             font-weight: 600;
-            color: #003366;
+            color: #5a1e6b;
             margin-bottom: 8px;
             letter-spacing: -0.5px;
         }
@@ -63,7 +218,7 @@
             background: #f5f5f5;
             padding: 20px;
             margin: 30px 0;
-            border-left: 3px solid #0066cc;
+            border-left: 3px solid #7b2d8e;
             font-size: 13px;
         }
 
@@ -71,7 +226,7 @@
             font-size: 13px;
             font-weight: 600;
             margin-bottom: 12px;
-            color: #003366;
+            color: #5a1e6b;
         }
 
         .toc ul {
@@ -82,7 +237,7 @@
         }
 
         .toc a {
-            color: #0066cc;
+            color: #7b2d8e;
             text-decoration: none;
             font-size: 12px;
         }
@@ -98,7 +253,7 @@
         .category h2 {
             font-size: 18px;
             font-weight: 600;
-            color: #003366;
+            color: #5a1e6b;
             border-bottom: 1px solid #e0e0e0;
             padding-bottom: 12px;
             margin-bottom: 20px;
@@ -131,7 +286,7 @@
         .file-name {
             display: inline-block;
             font-weight: 400;
-            color: #0066cc;
+            color: #7b2d8e;
             text-decoration: none;
             margin-bottom: 4px;
             font-size: 12px;
@@ -173,16 +328,51 @@
 </head>
 <body>
     <div class="container">
-        <header>
-            <div class="title-block">
-                <h1>AI in the Trenches and on the Bench</h1>
-                <h1 style="font-size: 18px; font-weight: 400; color: #666; margin-top: 8px;">Source Materials</h1>
-                <h2>ABA Business Law Section Spring Meeting 2026 | Atlanta<br>Compiled by Hon. Richard Platkin</h2>
-            </div>
 
+        <!-- ABA BRANDED BANNER -->
+        <div class="aba-banner">
+            <div class="aba-mark">
+                American Bar Association
+                <span>Business Law Section</span>
+            </div>
+            <div class="spring-mark">SPRING MEETING 2026 &nbsp;·&nbsp; ATLANTA</div>
+        </div>
+
+        <!-- HERO -->
+        <div class="hero">
+            <h1>AI in the Trenches and on the Bench</h1>
+            <div class="subtitle">A Business Law Toolkit for In-House, Firm, and Courtroom</div>
+            <div class="meta">
+                <strong>Friday, April 17, 2026</strong> &nbsp;·&nbsp; 12:00 PM – 1:30 PM EDT<br>
+                Co-sponsored by the Business and Corporate Litigation Committee, Judges Initiative Committee, and Cyber and Technology Committee
+            </div>
+        </div>
+
+        <!-- PANEL -->
+        <div class="panel-block">
+            <h3>Panel</h3>
+            <div class="panel-list">
+                <div class="row"><div class="person"><span class="name">Paulette Rodríguez López</span>, <span class="affil">Associate, Crowell &amp; Moring LLP</span></div><span class="role">Moderator</span></div>
+                <div class="row"><div class="person"><span class="name">Hon. Richard Platkin</span>, <span class="affil">New York State Courts (Commercial Division), Albany, NY</span></div><span class="role">Panelist</span></div>
+                <div class="row"><div class="person"><span class="name">Alina Lee</span>, <span class="affil">Aspire Law, Atlanta, GA</span></div><span class="role">Panelist</span></div>
+                <div class="row"><div class="person"><span class="name">Bradford Newman</span>, <span class="affil">Eversheds Sutherland, Silicon Valley, CA</span></div><span class="role">Panelist</span></div>
+                <div class="row"><div class="person"><span class="name">Jeffrey Huang</span>, <span class="affil">Pilot Company, Knoxville, TN</span></div><span class="role">Panelist</span></div>
+            </div>
+        </div>
+
+        <!-- DECK / MATERIALS CALLOUT -->
+        <div class="deck-callout">
+            <div class="eyebrow">Panel Materials</div>
+            <h2>Presentation Deck &amp; Source Library</h2>
+            <p>The panel slide deck and a curated library of the underlying cases, rules, policies, and practitioner analyses. Browse topics below or download the full deck.</p>
+            <a href="ABA-BLS-Spring2026-AI-Trenches-Bench-Deck.pdf" class="deck-btn">Download Panel Deck (PDF)</a>
+        </div>
+
+        <div class="content-wrap">
+        <header>
             <div class="intro">
-                <p>This collection curates the source materials referenced in the ABA Business Law Section panel discussion "AI in the Trenches and on the Bench." The materials span landmark court decisions on AI misconduct and privilege, policy frameworks from state and federal judiciaries, practitioner analyses, and foundational research on AI capabilities and limitations.</p>
-                <p>All files are organized by topic for quick reference during and after the panel. Links open directly in your browser or download to your device.</p>
+                <p>This collection curates the source materials referenced in the panel discussion. The materials span landmark court decisions on AI misconduct and privilege, policy frameworks from state and federal judiciaries, practitioner analyses, and foundational research on AI capabilities and limitations.</p>
+                <p>All files are organized by topic for quick reference during and after the panel. Source library compiled by Hon. Richard Platkin.</p>
             </div>
 
             <div class="toc">
@@ -650,6 +840,7 @@
                 <span style="font-size: 11px;">This collection is provided for educational and discussion purposes in connection with the ABA Business Law Section panel presentation.</span>
             </p>
         </footer>
+        </div><!-- /content-wrap -->
     </div>
 </body>
 </html>
