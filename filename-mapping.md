@@ -184,6 +184,14 @@
 
 ---
 
+## Added April 14, 2026
+
+| Original Filename | New Filename |
+|---|---|
+| `gov.uscourts.insd.222282.37.0.pdf` | `White-v-Walmart-SDInd-AI-Cannot-Replace-MeetConfer-Apr2026.pdf` |
+
+---
+
 **Files not renamed:**
 | Filename | Reason |
 |---|---|
